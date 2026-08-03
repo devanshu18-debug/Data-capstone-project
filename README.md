@@ -1,2 +1,2 @@
 # Data-capstone-project
-Short description A desktop-based Bank Management System developed to manage customer accounts, transactions, deposits, withdrawals, and account records efficiently.
+Data analytics project involving data cleaning, preprocessing, visualization, and exploratory data analysis using Python.
